@@ -1,0 +1,7 @@
+Verici loradan alıcı loraya aktarılan veri alıcı lora tarafından Arduino unoya aktarılır.
+Alıcı tarafındaki Arduino uno ile seri haberleşme yöntemi ile esp8266ya aktarılır
+Esp8266 tarafından internete yüklenen veri aracı programlar tarafından websitesine gösterime açılır.
+
+Arduino ve lora bağlantıları
+DHT 11 verici Arduino’da + pini 5V a – pini toprağa data pini de Arduino’nun 3 pinine bağlanacak
+Esp8266nın VİN pini alıcı Arduino da 5v a Esp8266 GND pini alıcı Arduino’da GND pinine Esp8266nın RX pini Alıcı Arduino’da TX pinine bağlanacak
