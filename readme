@@ -1,3 +1,8 @@
+2 adet Ra-02 Lora modülü
+2 adet Arduino Uno
+1 adet esp8266 tabanlı nodemcu
+1 adet DHT 11 ısı ve nem modülü
+
 Verici loradan alıcı loraya aktarılan veri alıcı lora tarafından Arduino unoya aktarılır.
 Alıcı tarafındaki Arduino uno ile seri haberleşme yöntemi ile esp8266ya aktarılır
 Esp8266 tarafından internete yüklenen veri aracı programlar tarafından websitesine gösterime açılır.
